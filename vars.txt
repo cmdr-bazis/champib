@@ -1,0 +1,3 @@
+cloud_id = b1gtrb1pnt0mnhlbb7nc
+folder_id = b1gone6i3v8dcn7gkptc
+folder_name = comp6
