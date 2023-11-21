@@ -1,0 +1,19 @@
+# .gitignore
+
+# Все файлы начинающиеся на key*
+key*
+
+# Файлы c именем id_rsa*
+id_rsa*
+
+# terraform/.terraform/
+terraform/.terraform/
+
+# terraform/*.backup
+terraform/*.backup
+
+# terraform/*.tfstate
+terraform/*.tfstate
+
+# ansible/inventory
+ansible/inventory
